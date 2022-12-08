@@ -1,2 +1,5 @@
 # adventofcode
-https://adventofcode.com/
+
+https://adventofcode.com/ - 2022
+
+Written in Typescript
